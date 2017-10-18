@@ -1,0 +1,22 @@
+{
+  "name": "quickstart-intermediate",
+  "description": "",
+  "main": "",
+  "authors": [
+    "grassme <lanh.ptit.tn@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/grassme/Huyen-Lanh",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
